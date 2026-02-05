@@ -1,9 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=120&text=Seunghwi's%20GitHub&animation=&fontColor=000000&fontSize=60" />
     </div>
-    <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 마주한 문제를 가볍게 넘기지 않고, 끊임없는 고민으로 최선의 해답을 찾는 개발자 최승휘입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 예기치 못한 기술적 난관을 마주했을 때 회피하기보다 다양한 관점에서 해결 방식을 탐색하며, 그 과정에서 얻은 인사이트를 기록하고 동료들과 공유하는 것을 즐깁니다. </li>이러한 집요한 문제 해결 역량을 바탕으로 어떠한 환경에서도 견고하고 확장 가능한 시스템을 구축하여, 서비스의 안정적인 운영과 비즈니스 가치 창출에 기여하겠습니다. </div> 
+    <div style="font-weight: 600; font-size: 10px; text-align: left; color: #282d33;"> 
+        예기치 못한 기술적 난관을 마주했을 때 회피하기보다 다양한 관점에서 해결 방식을 탐색하며, 그 과정에서 얻은 인사이트를 기록하고 동료들과 공유하는 것을 즐깁니다.<br>
+        이러한 집요한 문제 해결 역량을 바탕으로 어떠한 환경에서도 견고하고 확장 가능한 시스템을 구축하여, 서비스의 안정적인 운영과 비즈니스 가치 창출에 기여하겠습니다.
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br>    
